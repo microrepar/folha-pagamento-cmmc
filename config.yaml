@@ -1,7 +1,7 @@
 cookie:
   expiry_days: 1
   key: some_signature_key
-  name: dash_session_id
+  name: cmmc_dash_session_id
 credentials:
   usernames:
     admin:
