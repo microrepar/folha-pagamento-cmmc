@@ -5,13 +5,8 @@ cookie:
 credentials:
   usernames:
     admin:
-<<<<<<< HEAD
       email: admin@admin.com.br
       name: "Admin"
-=======
-      email: contato@codigo100cera.com.br
-      name: "Maur\xEDcio Silva"
->>>>>>> f205d26baa68f2f399be2016308f64122eb14c31
       password: $2b$12$kLfm89ZWxQ7ZJ07JZPEdi.iVG3S8Ydi2nYkUmZetyEIjqCmbKAyM.
 preauthorized:
   emails: []
