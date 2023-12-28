@@ -1115,7 +1115,7 @@ def dash():
             <h1>FOLHA DE PAGAMENTO CMMC 💰</h1>
             <h3>Pagamentos desde {df['competencia'].unique()[0]}</h3>
             <p>Fonte: <a href="https://leideacesso.etransparencia.com.br/mogidascruzes.camara.sp/tdaportalclient.aspx?418" target="blank">
-                            Portal da Transparência (Recursos Humanos)</a>. Último acesso em: 03/09/2023
+                            Portal da Transparência (Recursos Humanos)</a>. Último acesso em: 29/12/2023
             </p>
         </div>
         """,
